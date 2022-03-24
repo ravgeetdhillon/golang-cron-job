@@ -1,0 +1,24 @@
+{
+  "name": "golang-cron-job",
+  "version": "1.0.0",
+  "description": "",
+  "main": "random_id.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravgeetdhillon/golang-cron-job.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravgeetdhillon/golang-cron-job/issues"
+  },
+  "homepage": "https://github.com/ravgeetdhillon/golang-cron-job#readme",
+  "dependencies": {
+    "nanoid": "^3.3.1"
+  }
+}
